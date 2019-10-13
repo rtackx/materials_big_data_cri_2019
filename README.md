@@ -10,6 +10,8 @@ This course will provide an introduction to the field of big data, with a focus 
 Why focus on network data? Over the past century, network studies have had significant impact in disciplines as varied as mathematics, sociology, physics, biology, computer science or quantitative geography, giving birth to Network Science as a field of itself. With the recent rise of social networks in the last decade, their use has now become widespread in the digital world. Here we will provide an introduction to the field of Network Science,  from the theoretical foundations (generating, analysing, perturbing networks) to the practical hands-on part (analysis and visualisation of a real-world networks). 
 
 ## Network topics will cover
+(Marc, Liubov)
+
 1.  How to construct networks from real data?
 2.  How to analyze networks? (centrality measures, community detection, statistical analyses etc.)
 3.  How to visualise networks? 
@@ -72,12 +74,14 @@ Students will then spend the last part of the course working on a research proje
 * Other resources
   * Exploring complex systems (not just networks): http://www.complexity-explorables.org/
   * About collective phenomena and emergence: https://youtu.be/16W7c0mb-rE 
+  * Presentations on network science https://github.com/Liyubov/talks-from-conferences/tree/master/teaching_networks 
 
 * Papers about network science:
 https://drive.google.com/drive/u/1/folders/1RXXtMR1DMaWSm22lyqxwSDx_H07kRElt
 
 
 ## Big Data & Mental Health:
+(Felix, Anirudh)
 
 * Linked Semantic Mental health Database: https://github.com/ChildMindInstitute/mhdb/wiki
 * MindLogger Data Collection Platform & App: https://mindlogger.org/
