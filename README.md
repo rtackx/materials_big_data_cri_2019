@@ -56,7 +56,7 @@ Students will then spend the last part of the course working on a research proje
     * Deezer Social Networks, Facebook Page-Page Networks, Wikipedia Article Networks: https://github.com/benedekrozemberczki/datasets
     * A Repository of Benchmark Graph Datasets for Graph Classification (31 Graph Datasets In Total https://github.com/shiruipan/graph_datasets
     * Repository of Network repositories: https://github.com/ComplexNetTSP/ComplexNetWiki/wiki/Networks-datasets
-    * Your own!! Any dataset with two columns can be a network after all... Why not try with your favorite data?
+   * Your own!! Any dataset with two columns can be a network after all... Why not try with your favorite data? You can use API to mine your own network, for example with [Twitter](https://towardsdatascience.com/access-data-from-twitter-api-using-r-and-or-python-b8ac342d3efe) or [Youtube](https://www.pythonforbeginners.com/scripts/using-the-youtube-api/)
 
 * For visualisations 
   * Gephi https://gephi.org/ for simple graph visualisation
