@@ -2,6 +2,8 @@
 
 Authors: Marc & Liubov (network theory) | Anirudh & Felix (Big data in mental health) | Loic (data management)
 
+**Let us know more about you in this [form](https://forms.gle/qzUibhZVm7GEa5rP9)!**
+
 This is the repository of the [CRI](https://cri-paris.org/) Digital Master "Big data" course for Fall 2019.
 
 # Course description on network theory
