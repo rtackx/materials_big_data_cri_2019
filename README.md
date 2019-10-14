@@ -77,6 +77,7 @@ Students will then spend the last part of the course working on a research proje
   * Exploring complex systems (not just networks): http://www.complexity-explorables.org/
   * About collective phenomena and emergence: https://youtu.be/16W7c0mb-rE 
   * Presentations on network science https://github.com/Liyubov/talks-from-conferences/tree/master/teaching_networks 
+  * Firsts in network science from Petter Holme https://petterhol.me/2019/04/15/firsts-in-network-science/
 
 * Papers about network science:
 https://drive.google.com/drive/u/1/folders/1RXXtMR1DMaWSm22lyqxwSDx_H07kRElt
