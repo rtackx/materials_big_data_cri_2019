@@ -7,12 +7,13 @@ Authors: Marc & Liubov (network theory) | Anirudh & Felix (Big data in mental he
 This is the repository of the [CRI](https://cri-paris.org/) Digital Master "Big data" course for Fall 2019.
 
 # Course description on network theory
+(Marc, Liubov)
+
 This course will provide an introduction to the field of big data, with a focus on network data and data for mental health. Topics will cover data project management, infrastructure of big data, data analysis and visualisation, and mental health data. The course will be divided into a big data and a network data parts.
 
 Why focus on network data? Over the past century, network studies have had significant impact in disciplines as varied as mathematics, sociology, physics, biology, computer science or quantitative geography, giving birth to Network Science as a field of itself. With the recent rise of social networks in the last decade, their use has now become widespread in the digital world. Here we will provide an introduction to the field of Network Science,  from the theoretical foundations (generating, analysing, perturbing networks) to the practical hands-on part (analysis and visualisation of a real-world networks). 
 
 ## Network topics will cover
-(Marc, Liubov)
 
 1.  How to construct networks from real data?
 2.  How to analyze networks? (centrality measures, community detection, statistical analyses etc.)
@@ -24,6 +25,7 @@ Why focus on network data? Over the past century, network studies have had signi
 Students will select, analyse and present a network of their choice as part of a personal project for the course. They will also choose an advanced topic in network science & big data for which they will make a presentation in a reverse classroom setting. They will in particular contribute to a wikipedia page about that topic.
 
 # Data Efforts in the Mental Health part:
+(Anirudh, Felix)
 
 In this part, students will be presented with topics related to the infrastructure of ‘big data’. They will be introduced to barriers, current trends, types, protocols and importance of ‘big data’ collection in the sphere of mental health, specifically through the
  (i) Healthy Brain Network project for 10000 children collecting and sharing neuroimaging & phenotypic data. 
@@ -36,6 +38,7 @@ Students will then spend the last part of the course working on a research proje
 # Resources
 
 ## Introductory material on networks:
+(Marc, Liubov)
 
 * Introductory interactive textbook by A-L Barabasi: http://networksciencebook.com/ 
   * Chapter 2 for network metrics
