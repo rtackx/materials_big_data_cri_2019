@@ -3,6 +3,7 @@
 Authors: Marc & Liubov (network theory) | Anirudh & Felix (Big data in mental health) | Loic (data management)
 
 Marc Santolini: marc.santolini@cri-paris.org
+
 Liubov Tupikina: liubov.tupikina@cri-paris.org
 
 **Let us know more about you in this [form](https://forms.gle/qzUibhZVm7GEa5rP9)!**
