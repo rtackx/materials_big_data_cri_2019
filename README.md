@@ -80,7 +80,7 @@ Students will then spend the last part of the course working on a research proje
 
 * For analyses 
   * R https://www.rstudio.com/ with the library iGraph (some intro here: https://kateto.net/networks-r-igraph)
-  * Python https://www.python.org/ with the networkx library (https://networkx.github.io/), matplotlib, numpy, seaborn, pylab
+  * Python https://www.python.org/ with the networkx library (https://networkx.github.io/), matplotlib, numpy, seaborn, pylab, jupiter notebook
 
 * Other resources
   * Exploring complex systems (not just networks): http://www.complexity-explorables.org/
