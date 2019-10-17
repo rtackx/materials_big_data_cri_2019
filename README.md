@@ -109,7 +109,11 @@ https://drive.google.com/drive/u/1/folders/1RXXtMR1DMaWSm22lyqxwSDx_H07kRElt
   * https://www.binarybottle.com/papers.html
 
 
+## Ideas for the projects 
 
+Collaborations with other existing projects
+* Functional networks building and analysis, e.g.  pyunicorn
+* Comparison of networks, e.g. project https://github.com/netsiphd/netrd
 
 # How To Use Github 
 https://guides.github.com/activities/hello-world/ 
