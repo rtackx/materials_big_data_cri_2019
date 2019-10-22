@@ -109,7 +109,26 @@ https://drive.google.com/drive/u/1/folders/1RXXtMR1DMaWSm22lyqxwSDx_H07kRElt
   * https://www.binarybottle.com/papers.html
 
 
-## Ideas for the projects 
+## Topics and ideas for the projects 
+
+Internet and WWW analysis:
+Data collected in 1999. Ref: Albert, R., Jeong, H., & Barabasi, A. L. (1999). 
+Internet: Diameter of the world-wide web. Nature, 401(6749), 130-131
+http://networkrepository.com/
+
+Citation and collaboration network analysis:
+Leskovec, J., Kleinberg, J., & Faloutsos, C. (2007) with other data examples 
+https://snap.stanford.edu/data/
+
+
+Neural networks:
+Classes of small-world networks L. A. N. Amaral (2000)
+
+Ecological network
+Ecological networks Montoya Sole (2000)
+
+Transportational networks 
+Barthelemy (2011)
 
 Collaborations with other existing projects
 * Functional networks building and analysis, e.g.  pyunicorn
