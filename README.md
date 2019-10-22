@@ -122,13 +122,15 @@ https://snap.stanford.edu/data/
 
 
 Neural networks:
-Classes of small-world networks L. A. N. Amaral (2000)
+Brain networks by O.Sporns 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3811098/
 
-Ecological network
-Ecological networks Montoya Sole (2000)
+Ecological network:
+Ecological networks and fragility by Montoya Sole (2000)
+https://www.ncbi.nlm.nih.gov/pubmed/16855581
 
-Transportational networks 
-Barthelemy (2011)
+Transportational networks:
+Barthelemy (2011) https://journals.openedition.org/nda/2374
 
 Collaborations with other existing projects
 * Functional networks building and analysis, e.g.  pyunicorn
