@@ -111,25 +111,25 @@ https://drive.google.com/drive/u/1/folders/1RXXtMR1DMaWSm22lyqxwSDx_H07kRElt
 
 ## Topics and ideas for the projects 
 
-Internet and WWW analysis:
+* Internet and WWW analysis:
 Data collected in 1999. Ref: Albert, R., Jeong, H., & Barabasi, A. L. (1999). 
 Internet: Diameter of the world-wide web. Nature, 401(6749), 130-131
 http://networkrepository.com/
 
-Citation and collaboration network analysis:
+* Citation and collaboration network analysis:
 Leskovec, J., Kleinberg, J., & Faloutsos, C. (2007) with other data examples 
 https://snap.stanford.edu/data/
 
 
-Neural networks:
+* Neural networks:
 Brain networks by O.Sporns 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3811098/
 
-Ecological network:
+* Ecological network:
 Ecological networks and fragility by Montoya Sole (2000)
 https://www.ncbi.nlm.nih.gov/pubmed/16855581
 
-Transportational networks:
+* Transportational networks:
 Barthelemy (2011) https://journals.openedition.org/nda/2374
 
 Collaborations with other existing projects
