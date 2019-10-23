@@ -8,7 +8,7 @@ Liubov Tupikina: liubov.tupikina@cri-paris.org
 
 **Let us know more about you in this [form](https://forms.gle/qzUibhZVm7GEa5rP9)!**
 
-**Your information: https://docs.google.com/spreadsheets/d/1dsMScv5jodScJQ8dXe66ZbOLGK3o8-cq8KlrHdB2Nr8/edit?usp=sharing.**
+**Let us know about your github and topics you are interested: https://docs.google.com/spreadsheets/d/1dsMScv5jodScJQ8dXe66ZbOLGK3o8-cq8KlrHdB2Nr8/edit?usp=sharing.**
 
 This is the repository of the [CRI](https://cri-paris.org/) Digital Master "Big data" course for Fall 2019.
 
