@@ -138,3 +138,6 @@ Collaborations with other existing projects
 
 # How To Use Github 
 https://guides.github.com/activities/hello-world/ 
+
+To push your folder with project to existing Github repository 
+https://help.github.com/en/github/using-git/pushing-commits-to-a-remote-repository
